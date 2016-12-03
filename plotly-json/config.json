@@ -1,0 +1,26 @@
+{
+
+  "data": [{
+
+    "x": "your data",
+    "y": "your data",
+    
+    "line": { "width": 1 },
+    "type": "scatter"
+
+  }],
+
+  "layout": {
+
+    "xaxis": {
+      "type": "date",
+      "title": "Date"
+    },
+    "yaxis": {
+      "type": "linear",
+      "title": "Price in USD"
+    }
+
+  }
+
+}
