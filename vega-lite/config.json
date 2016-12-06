@@ -1,0 +1,11 @@
+{
+  "width": 900,
+  "height": 400,
+  "description": "Vega-lite example",
+  "data": {"url": "../data/day.csv", "format": {"type": "csv"}},
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal", "axis": {"shortTimeLabels": true, "ticks": 14}},
+    "y": {"field": "Price", "type": "quantitative", "axis": {"title": "Price in USD"}}
+  }
+}
