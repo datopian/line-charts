@@ -31,7 +31,7 @@ function change(){
           "streams": [
             {
               "type": "mousemove",
-              "expr": "eventX() > width - 155 ? eventX() - 155 : eventX()",
+              "expr": "eventX()",
               "scale": {"name": "x","invert": true}
             }
           ]
