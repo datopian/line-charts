@@ -1,5 +1,7 @@
 Line charts are bread and butter of visualization. Here we test out libraries and methods for making them.
 
+Examples can be seen [here](http://dev.rufuspollock.org/line-charts/)
+
 ### Brief comments on each library:
 
 * Vega - easy to get started, almost fully customizable.
