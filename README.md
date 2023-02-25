@@ -1,6 +1,6 @@
 Line charts are bread and butter of visualization. Here we test out libraries and methods for making them.
 
-Examples can be seen [here](http://dev.rufuspollock.org/line-charts/)
+Examples can be seen [here](http://datopian.github.io/line-charts/)
 
 ### Brief comments on each library:
 
